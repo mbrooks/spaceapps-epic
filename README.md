@@ -4,7 +4,9 @@ Just a demo React app that uses the NASA EPIC imaging API.
 
 ## Install
 
-  npm install
+	git clone git@github.com:mbrooks/spaceapps-epic.git
+	cd spaceapps-epic
+	npm install
 
 ## Usage
 
