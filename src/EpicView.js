@@ -30,7 +30,7 @@ class EpicView extends Component {
 
     return (
       <div key={imageData.image}>
-        <img src={imageUrl} style={{ height: 700 }} />
+        <img src={imageUrl} style={{ height: 700 }} alt='' />
         <p>{imageData.date}</p>
       </div>
     )
